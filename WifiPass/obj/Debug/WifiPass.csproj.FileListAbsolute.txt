@@ -1,0 +1,6 @@
+C:\Users\Tremo\source\repos\WifiPass\WifiPass\bin\Debug\WifiPass.exe.config
+C:\Users\Tremo\source\repos\WifiPass\WifiPass\bin\Debug\WifiPass.exe
+C:\Users\Tremo\source\repos\WifiPass\WifiPass\bin\Debug\WifiPass.pdb
+C:\Users\Tremo\source\repos\WifiPass\WifiPass\obj\Debug\WifiPass.csprojAssemblyReference.cache
+C:\Users\Tremo\source\repos\WifiPass\WifiPass\obj\Debug\WifiPass.exe
+C:\Users\Tremo\source\repos\WifiPass\WifiPass\obj\Debug\WifiPass.pdb
